@@ -1,3 +1,4 @@
 old/
 __pycache__/
-my_test.py
+*test.py
+webex_mercury_debug.py
